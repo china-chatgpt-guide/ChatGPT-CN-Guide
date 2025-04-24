@@ -5,8 +5,8 @@
 **全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4.1、GPT-4o、o1、o3 和 GPT-4o画图 及更多中文功能应用！**   
 本指南旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT 镜像网站**和**官网使用教程**，无论是工作学习还是日常生活中，都能满足你的需要~
 
-**ChatGPT 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
-**ChatGPT 镜像网站：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
+**ChatGPT 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**   
+**ChatGPT 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
 
